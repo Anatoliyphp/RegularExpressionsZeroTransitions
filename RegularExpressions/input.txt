@@ -1,0 +1,5 @@
+﻿LG
+S -> Sa | Ae | Ba | Ab
+A -> Ca | Be
+C -> Ca | b
+B -> Ce | a

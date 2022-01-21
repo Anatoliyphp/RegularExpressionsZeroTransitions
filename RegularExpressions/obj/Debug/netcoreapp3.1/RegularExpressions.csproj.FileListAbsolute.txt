@@ -1,0 +1,16 @@
+C:\Users\Анатолий\source\repos\RegularExpressions\RegularExpressions\bin\Debug\netcoreapp3.1\RegularExpressions.exe
+C:\Users\Анатолий\source\repos\RegularExpressions\RegularExpressions\bin\Debug\netcoreapp3.1\RegularExpressions.deps.json
+C:\Users\Анатолий\source\repos\RegularExpressions\RegularExpressions\bin\Debug\netcoreapp3.1\RegularExpressions.runtimeconfig.json
+C:\Users\Анатолий\source\repos\RegularExpressions\RegularExpressions\bin\Debug\netcoreapp3.1\RegularExpressions.runtimeconfig.dev.json
+C:\Users\Анатолий\source\repos\RegularExpressions\RegularExpressions\bin\Debug\netcoreapp3.1\RegularExpressions.dll
+C:\Users\Анатолий\source\repos\RegularExpressions\RegularExpressions\bin\Debug\netcoreapp3.1\RegularExpressions.pdb
+C:\Users\Анатолий\source\repos\RegularExpressions\RegularExpressions\bin\Debug\netcoreapp3.1\RegularExpressionsAndMachines.dll
+C:\Users\Анатолий\source\repos\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp3.1\RegularExpressions.csprojAssemblyReference.cache
+C:\Users\Анатолий\source\repos\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp3.1\RegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анатолий\source\repos\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp3.1\RegularExpressions.AssemblyInfoInputs.cache
+C:\Users\Анатолий\source\repos\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp3.1\RegularExpressions.AssemblyInfo.cs
+C:\Users\Анатолий\source\repos\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp3.1\RegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\source\repos\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp3.1\RegularExpressions.csproj.CopyComplete
+C:\Users\Анатолий\source\repos\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp3.1\RegularExpressions.dll
+C:\Users\Анатолий\source\repos\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp3.1\RegularExpressions.pdb
+C:\Users\Анатолий\source\repos\RegularExpressions\RegularExpressions\obj\Debug\netcoreapp3.1\RegularExpressions.genruntimeconfig.cache
