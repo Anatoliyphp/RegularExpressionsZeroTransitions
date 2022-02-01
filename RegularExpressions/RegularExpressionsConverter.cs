@@ -18,16 +18,16 @@ namespace RegularExpressions
 		public Dictionary<string, List<StateToTransition>> DeleteZeroTransitions()
 		{
 			Dictionary<string, List<StateToTransition>> transitionsWithOutEpsilon = new Dictionary<string, List<StateToTransition>>();
-			Dictionary<string, Dictionary<string, string>> transitionsWithEpsilon = new Dictionary<string, Dictionary<string, string>>();
+			Dictionary<string, List<StateToTransition>> transitionsWithEpsilon = new Dictionary<string, List<StateToTransition>>();
 
 			foreach (KeyValuePair<string, List<StateToTransition>> transition in _transitions)
 			{
-				transitionsWithEpsilon.Add(transition.Key, new Dictionary<string, string>());
+				transitionsWithEpsilon.Add(transition.Key, new List<StateToTransition>());
 				List<string> toStatesByEpsilon = transition.Value.Where(x => x.Value == "e").Select(x => x.Key).ToList();
 
 				foreach (string toState in toStatesByEpsilon)
 				{
-					transitionsWithEpsilon[transition.Key].Add(toState, "e");
+					transitionsWithEpsilon[transition.Key].Add(new StateToTransition() { Key = toState, Value = "e" });
 				}
 
 				while (toStatesByEpsilon.Any())
@@ -43,13 +43,13 @@ namespace RegularExpressions
 
 					foreach (string toState in toStatesByEpsilon)
 					{
-						transitionsWithEpsilon[transition.Key].Add(toState, "e");
+						transitionsWithEpsilon[transition.Key].Add(new StateToTransition() { Key = toState, Value = "e" });
 					}
 				}
 
 				transitionsWithOutEpsilon.Add(transition.Key, new List<StateToTransition>());
 
-				foreach (string state in transitionsWithEpsilon[transition.Key].Keys)
+				foreach (string state in transitionsWithEpsilon[transition.Key].Select(stt => stt.Key))
 				{
 					Dictionary<string, string> statesToTransitions = _transitions[state].Where(x => x.Value != "e").ToDictionary(x => x.Key, x => x.Value);
 					foreach (KeyValuePair<string, string> stateToTransition in statesToTransitions)

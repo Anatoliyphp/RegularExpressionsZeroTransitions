@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Анатолий\\source\\repos\\RegularExpressions\\RegularExpressions\\RegularExpressions.csproj": {}
+    "C:\\Users\\Анатолий\\Documents\\GitHub\\RegularExpressionsZeroTransitions\\RegularExpressions\\RegularExpressions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Анатолий\\source\\repos\\RegularExpressions\\RegularExpressions\\RegularExpressions.csproj": {
+    "C:\\Users\\Анатолий\\Documents\\GitHub\\RegularExpressionsZeroTransitions\\RegularExpressions\\RegularExpressions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Анатолий\\source\\repos\\RegularExpressions\\RegularExpressions\\RegularExpressions.csproj",
+        "projectUniqueName": "C:\\Users\\Анатолий\\Documents\\GitHub\\RegularExpressionsZeroTransitions\\RegularExpressions\\RegularExpressions.csproj",
         "projectName": "RegularExpressions",
-        "projectPath": "C:\\Users\\Анатолий\\source\\repos\\RegularExpressions\\RegularExpressions\\RegularExpressions.csproj",
+        "projectPath": "C:\\Users\\Анатолий\\Documents\\GitHub\\RegularExpressionsZeroTransitions\\RegularExpressions\\RegularExpressions.csproj",
         "packagesPath": "C:\\Users\\Анатолий\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Анатолий\\source\\repos\\RegularExpressions\\RegularExpressions\\obj\\",
+        "outputPath": "C:\\Users\\Анатолий\\Documents\\GitHub\\RegularExpressionsZeroTransitions\\RegularExpressions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Анатолий\\AppData\\Roaming\\NuGet\\NuGet.Config",

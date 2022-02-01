@@ -1,5 +1,5 @@
-﻿LG
-S -> Sa | Ae | Ba | Ab
-A -> Ca | Be
-C -> Ca | b
-B -> Ce | a
+﻿RG
+A -> aA | eC | bD | aB
+B -> bC | a
+C -> aA | bD | b
+D -> eB

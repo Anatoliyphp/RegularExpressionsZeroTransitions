@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rjNs0wNLO130KzA/mJKf/nLse+sutBnAXkI01FLbrxKVgaIAlCh/0R29PdHaEvtA62zBSLDV2FkO8+clh4+j4A==",
+  "dgSpecHash": "TbrjGIKc4G7WBVUzBiBxviQ5V+JbxKkhxpkwcVHgudzqwjV/YEgX4t2VH2drB4q1DvRWUp5uanhbzzddcEfJAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Анатолий\\source\\repos\\RegularExpressions\\RegularExpressions\\RegularExpressions.csproj",
+  "projectFilePath": "C:\\Users\\Анатолий\\Documents\\GitHub\\RegularExpressionsZeroTransitions\\RegularExpressions\\RegularExpressions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Анатолий\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
   ],
